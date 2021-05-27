@@ -10,7 +10,7 @@ Tree: <!-- halium-5.1 or halium-7.1 -->
 - [ ] Device boots into rootfs, `usb: Manufacturer: GNU/Linux Device` appears in `dmesg` on host.
 - [ ] LXC container starts and does not crash
 - [ ] libhybris tests
-  * [ ] test_gps
+  * [X] test_gps
   * [ ] test_hwcomposer
   * [ ] test_lights
   * [ ] test_vibrator
